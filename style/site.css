@@ -1,3 +1,4 @@
+
 body {
 	background-color: hsl(47, 88%, 63%);
 	font-size: 16px;
@@ -31,6 +32,13 @@ h5 {
 	border-radius: 0.35rem;
 	padding: .25rem;
 	text-align: center;
+	font-size:14px;
+}
+
+h6 {
+	font-weight: 500;
+	font-size: 13px;
+	margin:0;
 }
 
 p {

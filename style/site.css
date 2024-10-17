@@ -14,7 +14,7 @@ body {
 	background-color: hsl(0, 0%, 100%);
 	border-radius: 1rem;
     box-shadow: 7px 7px;
-	max-width: 18rem;
+	max-width: 21rem;
 	padding: 1rem;
 	margin-bottom: 1rem;
 }
@@ -22,8 +22,8 @@ body {
 .mainImg {
 	width: 100%;
 	border-radius: 0.625rem;
-	max-height: 18rem;
-	max-width: 18rem;
+	max-height: 21rem;
+	max-width: 21rem;
 }
 
 h5 {
@@ -43,7 +43,7 @@ h6 {
 
 p {
 	font-weight: 500;
-	font-size: 14px;
+	font-size: 15px;
 	color: hsl(0, 0%, 42%);
 }
 
